@@ -28,6 +28,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+<<<<<<< HEAD
 
 # =========================
 # Operating System Files
@@ -79,3 +80,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+=======
+>>>>>>> 91f40d15176195ef733eaa5bb925c0a9b784c4a6
